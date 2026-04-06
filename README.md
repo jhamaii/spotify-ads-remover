@@ -1,6 +1,6 @@
 # Spotify Ads Remover
 
-A silent Tampermonkey userscript that runs in the background on Spotify Web — no GUI, no popups, just works.
+A Tampermonkey userscript that runs silently in the background on Spotify Web.
 
 ## Features
 
@@ -16,13 +16,12 @@ A silent Tampermonkey userscript that runs in the background on Spotify Web — 
    - Android: [Kiwi Browser](https://kiwibrowser.com/) + Tampermonkey
    - iOS: [Orion Browser](https://kagi.com/orion/) + Tampermonkey
 2. Click **[Install Script](https://raw.githubusercontent.com/jhamaii/spotify-ads-remover/main/spotify-ads-remover.user.js)**
-3. Click **Install** on the Tampermonkey prompt
-4. Open [open.spotify.com](https://open.spotify.com) — runs automatically in the background
+3. Open [open.spotify.com](https://open.spotify.com)
 
 ## Notes
 
-- Only works on `open.spotify.com` (Spotify Web Player)
-- Spotify may update their UI selectors — open an issue if something stops working
+- Only works on `open.spotify.com`
+- Spotify may update their UI — open an issue if something breaks
 - No data is collected or sent anywhere
 
 ## Disclaimer
